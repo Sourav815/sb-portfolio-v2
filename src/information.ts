@@ -191,6 +191,6 @@ export const achievements = [
 
 export const followMe = {
   facebook: "https://www.facebook.com/sourav.bhunia.9400/",
-  x: "",
-  companyURL: "",
+  x: "https://x.com/bhunia_sou14088",
+  companyURL: "https://vehere.com/",
 };
