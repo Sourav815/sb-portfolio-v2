@@ -16,7 +16,7 @@ export const profileLinks = {
 // #Hero Section
 export const introduction = {
   current_office: "Vehere",
-  Currrent_designation: "Test Engineer Trainee",
+  Currrent_designation: "Software Engineer Trainee",
   short_desc:
     "An engineer specializing in building scalable applications, automating workflows, and solving complex problems with clean, efficient code.",
   contact_me: "test@gmail.com",
@@ -34,13 +34,15 @@ export const experience = [
   {
     company_logo: "./vehere.png",
     company_name: "Vehere Technologies Pvt. Ltd.",
-    designation: "Test Engineer Trainee",
+    designation: "Software Engineer Trainee",
     description: [
-      "Minecraft servers hosting Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nemo nobis beatae itaque officiis distinctio cupiditate quia omnis magnam vel laboriosam pariatur, minima dolorum nesciunt impedit?",
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium earum vitae ducimus obcaecati eveniet quod dolores, dolor omnis quidem quam.",
-      "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, accusamus ipsa! Repellat rerum ullam saepe!",
+      "As a Backend Engineer on the core module, Probe, developing high-performance features such as user-agent enrichment, PCAP analysis, and network packet dissection using C and C++.",
+      " ",
+      "Designed and maintained scalable Playwright automation for enterprise Network Security product (covering NDR, NDR+, and NDR Pro).",
+      "Implemented rich reporting and failure analysis dashboards for faster defect triage.",
+      "Validated Integration module (Email, SNMP, AD, TAXII, Syslog) and Data Management module (Smart PCAP).",
     ],
-    tags: ["Playwright", "javascript", "Linux", "VM", "python"],
+    tags: ["C", "C++", "Probe", "Wireshark", "Computer Network", "Playwright", "javascript", "Linux", "VM", "python"],
     joining_date: "Sept. 2025",
     closing_data: "",
     type: "Full time",
