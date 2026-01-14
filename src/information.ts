@@ -16,7 +16,7 @@ export const profileLinks = {
 // #Hero Section
 export const introduction = {
   current_office: "Vehere",
-  Currrent_designation: "Software Engineer Trainee",
+  Currrent_designation: "Software Engineer",
   short_desc:
     "An engineer specializing in building scalable applications, automating workflows, and solving complex problems with clean, efficient code.",
   contact_me: "test@gmail.com",
@@ -37,7 +37,6 @@ export const experience = [
     designation: "Software Engineer Trainee",
     description: [
       "As a Backend Engineer on the core module, Probe, developing high-performance features such as user-agent enrichment, PCAP analysis, and network packet dissection using C and C++.",
-      " ",
       "Designed and maintained scalable Playwright automation for enterprise Network Security product (covering NDR, NDR+, and NDR Pro).",
       "Implemented rich reporting and failure analysis dashboards for faster defect triage.",
       "Validated Integration module (Email, SNMP, AD, TAXII, Syslog) and Data Management module (Smart PCAP).",
